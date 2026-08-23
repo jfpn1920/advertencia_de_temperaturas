@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\bin\Debug\net10.0\advertencia_de_temperaturas.exe
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\bin\Debug\net10.0\advertencia_de_temperaturas.deps.json
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\bin\Debug\net10.0\advertencia_de_temperaturas.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\bin\Debug\net10.0\advertencia_de_temperaturas.dll
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\bin\Debug\net10.0\advertencia_de_temperaturas.pdb
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\advertencia_de_temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\advertencia_de_temperaturas.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\advertencia_de_temperaturas.AssemblyInfo.vb
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\advertencia_de_temperaturas.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\advertencia_de_temperaturas.sourcelink.json
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\advertencia_de_temperaturas.dll
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\refint\advertencia_de_temperaturas.dll
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\advertencia_de_temperaturas.pdb
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\advertencia_de_temperaturas.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Documentos\advertencia_de_temperaturas\advertencia_de_temperaturas\obj\Debug\net10.0\ref\advertencia_de_temperaturas.dll

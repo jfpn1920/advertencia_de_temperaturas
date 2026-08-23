@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "advertencia_de_temperaturas/1.0.0": {
+        "runtime": {
+          "advertencia_de_temperaturas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "advertencia_de_temperaturas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
